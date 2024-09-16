@@ -42,8 +42,8 @@ const showingNavigationDropdown = ref(false);
 
             <!-- Main page container -->
             <div class="w-full">
-                <div class="bg-white border-b h-[70px] p-4 text-end">
-                    <div class="ms-3 relative">
+                <div class="bg-white border-b h-[75px] p-5 text-end">
+                    <div class="items-end ">
                         <Dropdown align="right" width="48">
                             <template #trigger>
                                 <span class="inline-flex rounded-md">
